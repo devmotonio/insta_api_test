@@ -1,16 +1,19 @@
 # insta
 
-## Project setup
+## Passo 1
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+### Passo 2
+```
+no arquivo src/services/api.ts, colocar o token na variavel accessToken
+```
+### Passo 3
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para produção
 ```
 npm run build
 ```
